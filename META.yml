@@ -1,0 +1,24 @@
+--- #YAML:1.0
+name:               AnyEvent-Handle-ZeroMQ
+version:            0.01
+abstract:           Integrate AnyEvent and ZeroMQ with AnyEvent::Handle like ways.
+author:
+    - Cindy Wang (CindyLinz) <cindylinz@gmail.com>
+license:            perl
+distribution_type:  module
+configure_requires:
+    ExtUtils::MakeMaker:  0
+build_requires:
+    ExtUtils::MakeMaker:  0
+requires:
+    AnyEvent:    5.34
+    Test::More:  0
+    ZeroMQ:      0.15
+no_index:
+    directory:
+        - t
+        - inc
+generated_by:       ExtUtils::MakeMaker version 6.55_02
+meta-spec:
+    url:      http://module-build.sourceforge.net/META-spec-v1.4.html
+    version:  1.4
