@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               AnyEvent-Handle-ZeroMQ
-version:            0.03
+version:            0.04
 abstract:           Integrate AnyEvent and ZeroMQ with AnyEvent::Handle like ways.
 author:
     - Cindy Wang (CindyLinz)
