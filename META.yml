@@ -22,4 +22,4 @@ requires:
   Scalar::Util: 0
   Test::More: 0
   ZeroMQ: 0.15
-version: 0.08
+version: 0.09
